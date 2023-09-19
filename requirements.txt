@@ -1,0 +1,11 @@
+The package requirements for this Python program are:
+- requests
+- bs4
+- google-api-python-client
+
+You can install these packages by running:
+```
+pip install requests
+pip install bs4
+pip install google-api-python-client
+```
